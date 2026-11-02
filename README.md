@@ -30,24 +30,29 @@
 </p>
 
 
- 🚀 Featured Projects
+ ## 💫 About Me
 
-- **University System** – A university management application designed to support academic and administrative operations.
-- **PesaTrack** – A personal finance tracking application focused on understanding and managing expenses.
-- **Personal Portfolio** – A showcase of my development skills, projects, and learning journey.
+I'm an IT student and developer who enjoys turning ideas into practical digital solutions.
 
-🌱 Currently Learning
+I love understanding how things work behind the scenes, building systems that solve real problems, and constantly challenging myself to learn something new.
 
-- C Programming
-- Software Development
-- Database Management
-- Backend Development
+I don't just want to write code that works. I want to understand why it works.
 
- 🎯 My Goal
+- 💻 Interested in full-stack development and software engineering.
+- 🚀 Passionate about building real-world applications.
+- 🧩 Enjoy solving problems through technology.
+- 🎯 Focused on growing my technical skills and building meaningful projects.
+- 🌑 Building quietly. Letting the code speak.
 
-To become a skilled software developer by building real-world applications, strengthening my technical knowledge, and creating solutions that make a difference.
+## 🌱 Currently Learning
 
----
+- Advanced PHP and Laravel development.
+- React and modern frontend development.
+- C programming and problem-solving.
+- Database design and management.
+- Software architecture and application development.
 
-*Learning, building, breaking things, and figuring them out one project at a time.* 💻
+## 🎯 My Developer Philosophy
+
+> Learn by building. Grow by experimenting. Improve by understanding.
 
