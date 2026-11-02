@@ -83,3 +83,14 @@ My personal developer portfolio, showcasing my skills, projects and journey as a
 
 *More projects, experiments and ideas are always in progress.*
 
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=UHF-bambi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UHF-bambi&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+
+<img src="https://streak-stats.demolab.com?user=UHF-bambi&theme=tokyonight&hide_border=true" width="70%" />
+
+</div>
