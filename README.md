@@ -1,6 +1,6 @@
 
 
-<!--# Hey, I'm Bambi! 👋
+# Hey, I'm Bambi! 👋
 
 IT Student | Web Developer | Software Developer
 
