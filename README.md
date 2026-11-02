@@ -94,3 +94,28 @@ My personal developer portfolio, showcasing my skills, projects and journey as a
 <img src="https://streak-stats.demolab.com?user=UHF-bambi&theme=tokyonight&hide_border=true" width="70%" />
 
 </div>
+
+## 🤝 Let's Connect
+
+I'm always interested in connecting with fellow developers, exploring ideas and learning from people in tech.
+
+<div align="center">
+
+<a href="mailto:gracemwapia@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/UHF-bambi">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌑 Building quietly. Letting the code speak.
+
+*Thanks for stopping by. Keep building, keep growing.*
+
+</div>
