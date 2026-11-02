@@ -55,4 +55,30 @@ I don't just want to write code that works. I want to understand why it works.
 ## 🎯 My Developer Philosophy
 
 > Learn by building. Grow by experimenting. Improve by understanding.
+>
+> ## 🚀 Featured Projects
+
+A few things I've been working on:
+
+### 💰 [PesaTrack](https://github.com/UHF-bambi/PESA-TRACK)
+
+A personal finance tracking application focused on helping users understand their spending habits, manage expenses and see where their money goes.
+
+**Focus:** Personal finance • Expense tracking • Data management
+
+### 🎓 [University Management System](https://github.com/UHF-bambi/UNIVERSITY-SYSTEM)
+
+A university management application designed to bring different academic and administrative processes into one organised system.
+
+**Focus:** System development • Database management • Academic administration
+
+### 💻 [Personal Portfolio](https://github.com/UHF-bambi/PORTFOLIO)
+
+My personal developer portfolio, showcasing my skills, projects and journey as a full-stack developer.
+
+**Focus:** Web development • UI design • Personal branding
+
+---
+
+*More projects, experiments and ideas are always in progress.*
 
