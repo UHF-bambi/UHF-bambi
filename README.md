@@ -1,12 +1,14 @@
-
+ <div align="center">
 
 # Hey, I'm Bambi! 👋
 
-IT Student | Web Developer | Software Developer
+### Grace Kwamboka | Full-Stack Developer & IT Student
 
-I'm an IT student passionate about technology, software development, and building practical digital solutions.
+*Turning ideas into working systems, one line of code at a time.*
 
-I enjoy turning ideas into functional applications, exploring new technologies, solving problems, and continuously improving my development skills.
+</div>
+
+
 ## ⚡ TECH STACK
 
 <p align="left">
