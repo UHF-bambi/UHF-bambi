@@ -107,6 +107,9 @@ I'm always interested in connecting with fellow developers, exploring ideas and 
 <a href="https://github.com/UHF-bambi">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+<a href="https://www.linkedin.com/in/grace-mwapia-62bb21411/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 </div>
 
