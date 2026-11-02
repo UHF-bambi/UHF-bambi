@@ -55,7 +55,8 @@ I don't just want to write code that works. I want to understand why it works.
 ## 🎯 My Developer Philosophy
 
 > Learn by building. Grow by experimenting. Improve by understanding.
->
+
+
 > ## 🚀 Featured Projects
 
 A few things I've been working on:
